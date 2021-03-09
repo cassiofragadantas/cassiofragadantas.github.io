@@ -113,9 +113,9 @@ analytics:
 author:
   name             : "Cássio Fraga Dantas"
   avatar           : "images/profile-pic.png"
-  bio              : "PhD in signal processing"
-  location         : "France"
-  employer         : "Post-doc researcher at IRIT"
+  bio              : "Post-doctoral researcher in signal processing"
+  location         : "IRIT, Toulouse, France"
+  employer         : "IRIT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YgcZQpgAAAAJ"
   email            : Cassio.Fraga-Dantas at irit.fr
@@ -180,7 +180,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/thalitadru"
+      #url: "https://github.com/thalitadru"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
