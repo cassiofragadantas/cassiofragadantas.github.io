@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll" # for gem based theme
 # remote_theme           : "mmistakes/minimal-mistakes" # for remote theme
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thalita Drumond's webpage"
+title                    : "Cássio Fraga Dantas's webpage"
 title_separator          : "|"
-name                     : &name "Thalita Drumond"
+name                     : &name "Cássio Fraga Dantas"
 description              : &description "My personal webpage"
-url                      : "https://thalitadru.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cassiofragadantas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thalitadru/thalitadru.github.io"
+repository               : "cassiofragadantas/cassiofragadantas.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Thalita Drumond # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : Cássio Fraga Dantas # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -111,14 +111,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thalita Drumond"
-  avatar           : "images/avatar2.png"
-  bio              : "PhD in computer science"
+  name             : "Cássio Fraga Dantas"
+  avatar           : "images/profile-pic.png"
+  bio              : "PhD in signal processing"
   location         : "France"
-  employer         : "In collaboration with Inria's team Mnemosyne"
+  employer         : "Post-doc researcher at IRIT"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CKiUpv8AAAAJ"
-  email            : Thalita.Firmo-Drumond at Inria.fr
+  googlescholar    : "https://scholar.google.com/citations?user=YgcZQpgAAAAJ"
+  email            : Cassio.Fraga-Dantas at irit.fr
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -127,21 +127,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thalitadru"
+  github           : "cassiofragadantas"
   gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "thalita-drumond/en"
-  orcid            : "http://orcid.org/0000-0003-2303-9947"
+  linkedin         : "cassio-dantas/en"
+  orcid            : #"http://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           : 
-  twitter          : #"ThalitaDrumond"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
@@ -162,13 +162,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cassiofragadantas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Gitlab @Inria"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.inria.fr/tfirmodr"
+      url: "https://gitlab.inria.fr/cfragada"
 # Site Footer
 footer:
   links:

@@ -10,7 +10,7 @@ excerpt: False
 <!-- {% if author.googlescholar %} -->
 <!-- {% endif %} -->
 
-You can find my articles on <u><a href="https://scholar.google.com/citations?user=CKiUpv8AAAAJ">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YgcZQpgAAAAJ">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
