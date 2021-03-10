@@ -31,22 +31,22 @@ publist = {
         "venuekey": "booktitle",
         "venue-pretext": "In ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publications/"}
         
     },
      "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
-        "venue-pretext" : "In",
+        "venue-pretext" : "In ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publications/"}
     },
      "misc":{
         "file": "pubs.bib",
         "venuekey" : "institution",
-        "venue-pretext" : "Technical repport at ",
+        "venue-pretext" : "At ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publications/"}
     } 
  
 
@@ -138,6 +138,9 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+
+
+            md += "\nvenuetype: '" + str(pubsource) + "'"
             
             url = False
             if "url" in b.keys():
