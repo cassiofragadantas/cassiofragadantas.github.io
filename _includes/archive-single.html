@@ -42,9 +42,9 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation %}
+    <!-- {% if post.citation %}
       <p>Citation: {{ post.citation }} </p>
-    {% endif %}
+    {% endif %} -->
     <p>
       {% if post.paperurl %}
       <a href=" {{ post.paperurl }} "><span><i class="fas fa-fw fa-file-pdf"></i></span> Paper</a>
