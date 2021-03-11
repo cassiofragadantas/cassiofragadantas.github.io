@@ -41,7 +41,14 @@ publist = {
         "collection" : {"name":"publications",
                         "permalink":"/publications/"}
     },
-     "misc":{
+    "misc":{
+        "file": "pubs.bib",
+        "venuekey" : "howpublished",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publications/"}
+    }, 
+     "repport":{
         "file": "pubs.bib",
         "venuekey" : "institution",
         "venue-pretext" : "At ",
@@ -146,6 +153,10 @@ for pubsource in publist:
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
+                    url = True
+            elif "doi" in b.keys():
+                if len(str(b["url"])) > 5:
+                    md += "\npaperurl: 'https://doi.org/" + b["doi"] + "'"
                     url = True
 
             slides = False
