@@ -55,7 +55,7 @@ redirect_from:
 
   <ul>{% for post in site.publications reversed%}
         {% include archive-single-cv.html %}
-      {% if {{forloop.index0}} > 3%}
+      {% if forloop.index0 > 3%}
         {% break %}
       {% endif %}
   {% endfor %}</ul>  
