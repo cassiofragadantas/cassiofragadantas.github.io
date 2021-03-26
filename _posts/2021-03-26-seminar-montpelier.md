@@ -2,7 +2,7 @@
 title: 'News: seminar at ML-MPT in Montpelier'
 collection: 'Posts'
 date: 2021-03-26
-permalink: /posts/2021-03-26-seminar-montpelier
+permalink: /posts/2021/03/seminar-montpelier
 tags:
   - news
 ---
