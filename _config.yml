@@ -312,7 +312,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       read_time: true
       show_date: true
       comments: false
@@ -325,7 +325,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -333,7 +333,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
   # _publications
