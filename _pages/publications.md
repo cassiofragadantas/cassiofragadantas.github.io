@@ -6,14 +6,13 @@ author_profile: true
 excerpt: False
 ---
 
-
-<!-- {% if author.googlescholar %} -->
-<!-- {% endif %} -->
-
-You can also find my articles on <a href="https://scholar.google.com/citations?user=YgcZQpgAAAAJ">my Google Scholar profile</a>.
-
-
 {% include base_path %}
+
+{% if site.author.googlescholar %}
+You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+
 
 ## Journal articles
 {% for post in site.publications reversed %}
@@ -25,6 +24,20 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 ## Conference papers
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'proceeding' %}
+    {% include archive-single.html %}
+  {% endif%}
+{% endfor %}
+
+## Masters and PhD thesis
+{% for post in site.publications reversed %}
+  {% if post.venuetype == 'thesis' %}
+    {% include archive-single.html %}
+  {% endif%}
+{% endfor %}
+
+## Scientific and technical reports
+{% for post in site.publications reversed %}
+  {% if post.venuetype == 'repport' %}
     {% include archive-single.html %}
   {% endif%}
 {% endfor %}
