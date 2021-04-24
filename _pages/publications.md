@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -15,6 +15,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 
 ## Journal articles
+
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'journal' %}
     {% include archive-single.html %}
@@ -22,6 +23,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 {% endfor %}
 
 ## Conference papers
+
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'proceeding' %}
     {% include archive-single.html %}
@@ -29,22 +31,17 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 {% endfor %}
 
 ## Masters and PhD thesis
+
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'thesis' %}
     {% include archive-single.html %}
   {% endif%}
 {% endfor %}
 
-## Scientific and technical reports
-{% for post in site.publications reversed %}
-  {% if post.venuetype == 'repport' %}
-    {% include archive-single.html %}
-  {% endif%}
-{% endfor %}
-
 ## Other publications
+
 {% for post in site.publications reversed %}
-  {% if post.venuetype == 'misc' %}
+  {% if post.venuetype == 'misc' or post.venuetype == 'repport'%}
     {% include archive-single.html %}
   {% endif%}
 {% endfor %}
