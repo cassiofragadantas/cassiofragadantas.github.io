@@ -23,6 +23,7 @@ description              : &description "My personal webpage"
 url                      : "https://cassiofragadantas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cassiofragadantas/cassiofragadantas.github.io"
+attachments              : "https://www.dropbox.com/sh/5f1qnrk3gu9asg6/AABv5uZ5lasmcnLASuGwpVM4a?preview="
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : Cássio Fraga Dantas # overrides the website title displayed in the masthead, use " " for no title
@@ -112,13 +113,14 @@ analytics:
 # Site Author
 author:
   name             : "Cássio Fraga Dantas"
-  avatar           : "images/profile-pic.png"
-  bio              : "Post-doctoral researcher in signal processing"
+  avatar           : "images/profile-pic.jpg"
+  bio              : "Post-doctoral researcher in signal processing and machine learning"
   location         : "IRIT, Toulouse, France"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YgcZQpgAAAAJ"
   email            : Cassio.Fraga-Dantas at irit.fr
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  publons          : "https://publons.com/researcher/3196911/cassio-f-dantas/"
   uri              :
   bitbucket        :
   codepen          :
@@ -134,7 +136,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "cassio-dantas/en"
-  orcid            : #"http://orcid.org/"
+  orcid            : "https://orcid.org/0000-0002-1934-0625"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -147,15 +149,16 @@ author:
   youtube          :
   wikipedia        :
   links: #aditional links
-    - label: "Gitlab @Inria"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://gitlab.inria.fr/cfragada"
+    # - label: "Publons"
+    #   icon: "fa fa-fw fa-book"
+    #   url: "https://publons.com/researcher/3196911/cassio-f-dantas/"
+
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cfragada"
+      url: "https://github.com/cassiofragadantas"
 
 
 # Reading Files
