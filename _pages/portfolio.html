@@ -8,6 +8,10 @@ redirect_from: /portfolio/
 
 {% include base_path %}
 
+{% if site.author.github %}
+Find all my sofware on <a href="https://github.com/{{site.author.github}}">my Github page</a>.
+{% endif %}
+
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
