@@ -6,7 +6,7 @@ date: 2017-05-01
 venue: 'In IEEE Signal Processing Letters'
 venuetype: 'journal'
 paperurl: 'https://hal.inria.fr/hal-01672349'
-slides: 'slides/2017_SuKro_SPARS.pdf'
+slides: 'https://www.dropbox.com/sh/5f1qnrk3gu9asg6/AABv5uZ5lasmcnLASuGwpVM4a?preview=2017_SuKro_SPARS.pdf'
 code: 'https://github.com/cassiofragadantas/SuKro-DL'
 excerpt: ' '
 citation: ' C. Dantas,  M. Costa,  R. Lopes, &quot;Learning Dictionaries as a Sum of Kronecker Products.&quot; In IEEE Signal Processing Letters, 2017.'
