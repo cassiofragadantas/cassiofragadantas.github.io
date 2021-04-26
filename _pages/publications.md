@@ -30,7 +30,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
   {% endif%}
 {% endfor %}
 
-## Masters and PhD thesis
+## Master's and PhD thesis
 
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'thesis' %}
