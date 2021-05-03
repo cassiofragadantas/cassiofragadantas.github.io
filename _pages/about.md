@@ -10,7 +10,8 @@ redirect_from:
 ---
 
 I am a CNRS postdoctoral researcher at [IRIT](https://www.irit.fr/) in Toulouse, France,
-in the context of the ERC project [FACTORY](http://projectfactory.irit.fr/).
+in the context of the ERC project [FACTORY](http://projectfactory.irit.fr/),
+coordinated by [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/).
 
 I obtained my PhD in November 2019 from University of Rennes 1, supervised by [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) at [Inria Rennes](https://www.inria.fr/fr/centre-inria-rennes-bretagne-atlantique). 
 
