@@ -1,7 +1,13 @@
 ---
-title: "software project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SuKro"
+excerpt: "Learning dictionaries as a sum of Kronecker products.<br/><img src='/images/500x300.png'>"
 collection: portfolio
+url: 'https://github.com/cassiofragadantas/SuKro-DL'
+slides: 'https://www.dropbox.com/sh/5f1qnrk3gu9asg6/AABv5uZ5lasmcnLASuGwpVM4a?preview=2017_SuKro_SPARS.pdf'
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This code corresponds to the following paper:
+
+> C. Dantas, M. Costa, R. Lopes, "Learning Dictionaries as a Sum of Kronecker Products." In IEEE Signal Processing Letters, 2017.
+
+It contains an image denoising demo.
