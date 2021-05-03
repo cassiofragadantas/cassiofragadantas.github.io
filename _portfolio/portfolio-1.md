@@ -3,7 +3,7 @@ title: "SuKro"
 excerpt: "Learning dictionaries as a sum of Kronecker products.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 code: 'https://github.com/cassiofragadantas/SuKro-DL'
-language:'MATLAB'
+language: 'MATLAB'
 slides: 'https://www.dropbox.com/sh/5f1qnrk3gu9asg6/AABv5uZ5lasmcnLASuGwpVM4a?preview=2017_SuKro_SPARS.pdf'
 ---
 
