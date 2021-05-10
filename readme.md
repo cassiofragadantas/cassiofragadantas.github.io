@@ -4,7 +4,9 @@
 1. Install the jekyll and bundler gems. 
     ```
     gem install jekyll bundler
+    bundle install
     ```
+1. When installing bundler, check the blunder version specified on Gemfile.lock (if any)
 1. Within the root folder of the site run:
     ```
     bundle exec jekyll serve
