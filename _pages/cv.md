@@ -24,10 +24,10 @@ redirect_from:
 * 2014 – 2016: MSc Electrical Engineering, UNICAMP, Brazil. GPA: 4/4.
   * Master thesis title: Learning Structured Dictionaries.
   * Supervisor: Dr. Renato R. Lopes.
-* 2010 – 2012
-  * Engineering Cycle ÉCOLE POLYTECHNIQUE, Palaiseau, France.
+* 2010 – 2012: Engineering Cycle ÉCOLE POLYTECHNIQUE, Palaiseau, France.
   * Emphasis in Electrical Engineering.
-* 2008 – 2014 BSc Electrical Engineering, UNICAMP, Brazil. GPA : 0,94/1. Class rank: 1st /84.
+* 2008 – 2014: BSc Electrical Engineering, UNICAMP, Brazil. 
+  * GPA : 0,94/1. Class rank: 1st /84.
 
 ## Experience
 
