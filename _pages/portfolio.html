@@ -12,9 +12,8 @@ redirect_from: /portfolio/
 Find all my sofware on <a href="https://github.com/{{site.author.github}}">my Github page</a>.
 {% endif %}
 
-(Page under construction)
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
