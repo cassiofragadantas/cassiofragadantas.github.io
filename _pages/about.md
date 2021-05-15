@@ -26,3 +26,5 @@ Main research topics:
 - Sparse signal/image processing
 - Multi-dimensional data modeling
 
+See more details [here](/portfolio/).
+
