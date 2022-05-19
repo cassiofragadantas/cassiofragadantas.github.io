@@ -38,7 +38,7 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
   {% endif%}
 {% endfor %}
 
-## Other publications
+## Other communications
 
 {% for post in site.publications reversed %}
   {% if post.venuetype == 'misc' or post.venuetype == 'repport'%}
