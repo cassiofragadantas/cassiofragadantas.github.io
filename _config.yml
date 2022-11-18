@@ -115,10 +115,10 @@ author:
   name             : "Cássio Fraga Dantas"
   avatar           : "images/profile-pic.jpg"
   bio              : "Post-doctoral researcher in signal processing and machine learning"
-  location         : "IMAG, Montpellier, France"
+  location         : "INRAE, TETIS, Montpellier, France"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YgcZQpgAAAAJ"
-  email            : Cassio.Fraga-Dantas at umontpellier.fr
+  email            : Cassio.Fraga-Dantas at inrae.fr
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   publons          : "https://publons.com/researcher/3196911/cassio-f-dantas/"
   uri              :
