@@ -9,7 +9,7 @@ excerpt: False
 {% include base_path %}
 
 {% if site.author.googlescholar %}
-You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+You can find a complete list of my publications at <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> and open-access at <a href="{{https://cv.hal.science/cassio-dantas}}">my HAL profile</a>.
 {% endif %}
 
 

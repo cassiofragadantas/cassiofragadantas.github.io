@@ -13,7 +13,7 @@ redirect_from:
 <!-- * [One page CV (in english)](/files/CV_EN_single.pdf)
 * [CV détaillé (en français)](/files/CV_FR.pdf) -->
 
-[<span><i class="fas fa-fw fa-file-pdf"></i></span> PDF version here](/files/cv_academic_long.pdf)
+[<span><i class="fas fa-fw fa-file-pdf"></i></span> PDF version here](/files/2023_08_CV_INRAE_FR.pdf)
 
 
 ## Education
