@@ -23,10 +23,13 @@ My recent research activities lie on the frontier between signal processing, mac
 
 
 Main research topics:
-- Matrix/tensor factorization
+- Machine/deep learning for Remote Sensing data
+- Domain adaptation/generalization
+- Interpretable AI
 - Non-smooth optimization
 - Sparse signal/image processing
 - Multi-dimensional data modeling
+- Matrix/tensor factorization
 
 See more details [here](/portfolio/).
 
