@@ -10,6 +10,13 @@ redirect_from:
 ---
 
 I am a research scientist at [INRAE](https://www.inrae.fr/), UMR [TETIS](https://www.umr-tetis.fr/index.php/fr/), Montpellier, France, working on artificial intelligence for remote sensing applications in agriculture, ecosystems and environment. I am a member of the [Inria](https://inria.fr/fr) team [EVERGREEN](https://team.inria.fr/evergreen/).
+
+<p float="middle">
+  <img src="/images/logos/inrae.png" width="100" />
+  <img src="/images/logos/tetis.png" width="90" /> 
+  <img src="/images/logos/inria.png" width="110" />
+  <img src="/images/logos/evergreen.png" width="90" /> 
+</p>
  
 Previously, I was a postdoctoral researcher at [IMAG](https://imag.edu.umontpellier.fr/) mathematics laboratory in Montpellier, France, working with [Joseph Salmon](http://josephsalmon.eu/) at the EPS (probability and statistics) team and funded by the CAMELOT (CooperAtive MachinE Learning and OpTimization) chair.
 I also did a 2-year post-doc in 2020 and 2021 at [IRIT](https://www.irit.fr/) in Toulouse, France, in the context of the ERC project [FACTORY](http://projectfactory.irit.fr/),
