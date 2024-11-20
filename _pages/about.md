@@ -13,10 +13,10 @@ I am a research scientist at [INRAE](https://www.inrae.fr/), UMR [TETIS](https:/
 
 <center>
 <p float="middle">
-  <img src="/images/logos/inrae.png" width="150" />
-  <img src="/images/logos/tetis.png" width="135" /> 
-  <img src="/images/logos/inria.png" width="165" />
-  <img src="/images/logos/evergreen.png" width="90" /> 
+  <img src="/images/logos/inrae.png" width="140"  style="margin-right: 10px;" />
+  <img src="/images/logos/tetis.png" width="145"  style="margin-right: 10px;" /> 
+  <img src="/images/logos/inria.png" width="165"  style="margin-right: 10px;" />
+  <img src="/images/logos/evergreen.png" width="90"  style="margin-right: 10px;"/> 
 </p>
 </center>
  
