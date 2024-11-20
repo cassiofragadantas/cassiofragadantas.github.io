@@ -30,8 +30,15 @@ redirect_from:
   * GPA : 0,94/1. Class rank: 1st /84.
 
 ## Experience
-
-* Postdoctoral Researcher, CNRS, Institut de Recherche en Informatique de Toulouse (from Jan 2020)
+* Permanent Researcher, INRAE, UMR TETIS, Montpellier, France (from Oct 2022)
+    * Team ATTOS (Acquisition, Remote Sensing, Earth Observation data processing).
+    * Inria project-team EVERGREEN.
+    * Topics: Machine and deep learning for Earth observation data analysis; Satellite image time series; Explainable AI; Multi-modal data.
+* Postdoctoral Researcher, IMAG, Montpelliern France (Jan 2022 - Aug 2022)
+    * ANR project CAMELOT (CooperAtive MachinE Learning and OpTimization).
+    * EPS (probability and statistics) team.
+    * Supervisor: Prof. Joseph Salmon.
+* Postdoctoral Researcher, CNRS, Institut de Recherche en Informatique de Toulouse (Jan 2020- Dec 2021)
     *  FACTORY ERC project - New paradigms for latent factor estimation.
     *  Supervisor: Dr. Cédric Févotte.
 * Teaching Assistant, University of Rennes 1 (Sep 2018 – Dec 2018)

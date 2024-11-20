@@ -26,6 +26,9 @@ Main research topics:
 - Machine/deep learning for Remote Sensing data
 - Domain adaptation/generalization
 - Interpretable AI
+- Multimodal learning
+
+Technical skills:
 - Non-smooth optimization
 - Sparse signal/image processing
 - Multi-dimensional data modeling
